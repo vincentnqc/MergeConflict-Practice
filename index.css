@@ -1,3 +1,21 @@
+<<<<<<< HEAD
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  text-align: center;
+}
+.s11 {
+  color: blue;
+}
+.s22 {
+  color: red;
+}
+.s33 {
+  color: green;
+=======
 div {
   text-align: center;
 }
@@ -12,4 +30,5 @@ div {
 
 .s3 {
   color: red;
+>>>>>>> 583a73d3bacbad7540c1e33cfd04df423e78029f
 }
